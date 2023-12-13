@@ -1,0 +1,37 @@
+@media screen and (max-width: 848px) {
+    .box1, .box2 {
+     width: 390px;
+     padding: 2px;
+    }
+ }
+ 
+ @media screen and (max-width: 820px) {
+     .box1, .box2 {
+         width: 300px;
+         background-position: left;
+     }
+ }
+ 
+ @media screen and (max-width: 640px) {
+     .box1, .box2 {
+         width: 220px;
+     }
+     .section3 .tt h1{
+         font-size: 24px;
+     }
+ }
+ 
+ @media screen and (max-width: 480px) {
+     .box1, .box2 {
+         width: 170px;
+     }
+     .bord {
+         height: 700px;
+     }
+     .ta {
+         flex-direction: column;
+     }
+     .sb input {
+         width: 100%;
+     }
+ }

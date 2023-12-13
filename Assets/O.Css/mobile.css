@@ -1,0 +1,12 @@
+@media screen and (max-width: 380px) {
+    .boxs {
+        row-gap: 8px;
+        column-gap: 8px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .section2 .tt h1{
+        font-size: 25px;
+    }
+}

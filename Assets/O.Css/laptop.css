@@ -1,0 +1,17 @@
+@media screen and (max-width: 1264px) {
+    .boxes {
+        justify-content: left;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .ph li{
+        display: none;
+    }
+    .burger {
+        display: inline;
+    }
+    .section1 {
+        padding: 10px;
+    }
+}
